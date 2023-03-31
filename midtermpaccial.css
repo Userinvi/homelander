@@ -1,0 +1,79 @@
+h5 {
+  margin-top: 100px;
+  margin-left: 22px;
+  font-weight: 100;
+  font-size:small;
+  font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-weight: 100;
+    margin-top: 54px;
+    margin-bottom: -25px;
+}
+.read{
+    margin-left: 750px;
+    font-size: small;
+    font-family: Arial;
+}
+
+.lang{
+    margin-left: 905px;
+}
+
+.tab{
+    font-size: small;
+    font-family: Arial;
+}
+.columns {
+    display: flex;
+    justify-content:left;
+    column-gap: 40px;
+    flex-wrap: wrap;
+}
+
+
+.Navigation{
+    width: 300px;
+    height: 5000px;
+    border: hidden;
+    text-align:left;
+    color: rgb(0, 0, 0);
+    margin-left: 160px;
+}
+
+.Homelan{
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    max-width: 1000px;
+    height: 5000px;
+    border: hidden;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+.The_Homelander{
+    font-size: 14px;
+    float: right;
+    width: 20em;
+    text-align: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.luh{
+    text-align: left;
+    font-size: small;
+}
+.hul{
+    text-align: start;
+    font-size: small;
+}
+/*.Blank{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 500px;
+    color: rgb(255, 255, 255);
+    font-family:'Gill Sans MT';
+}*/
